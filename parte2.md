@@ -1,0 +1,1 @@
+Y ahora también, si `value` es múltiplo de de 3 entonces debe devolver `Fizz`.

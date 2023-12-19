@@ -1,0 +1,1 @@
+Y ahora también, si `value` es múltiplo de de 5 entonces debe devolver `Buzz`.
